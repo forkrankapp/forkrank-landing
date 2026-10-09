@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://www.forkrank.com/sitemap.xml
+Sitemap: https://www.forkjury.com/sitemap.xml
